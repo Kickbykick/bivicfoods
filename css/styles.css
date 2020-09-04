@@ -10134,7 +10134,7 @@ h3 {
   }
 }
 .masthead {
-  height: 50vh;
+  height: 60vh;
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
 }
@@ -10287,7 +10287,7 @@ form .row:first-child .floating-label-form-group {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, .3) 0, rgba(0, 0, 0, .7) 75%, #000 100%), url("/assets/img/backgroundPic.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, .3) 0, rgba(0, 0, 0, .7) 75%, #000 100%), url("https://raw.githubusercontent.com/Kickbykick/bivicfoods/master/assets/img/backgroundPic.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
